@@ -19,6 +19,17 @@ Recruiters review hundreds of profiles daily and still frequently miss top talen
 
 ---
 
+### 🎯 Meeting Judge Expectations
+
+| Expectation / Criteria | Our Implementation & Logic | Technical Architecture & Files |
+| :--- | :--- | :--- |
+| **Understand Job Descriptions Semantically** | Translates job descriptions and resumes into semantic vector spaces. Matches intent and synonyms rather than checking exact character strings. | [embeddings.py](file:///c:/h2s/utils/embeddings.py) (uses `all-MiniLM-L6-v2` dense vectors) |
+| **Look at the "Full Picture"** | Blends traditional resume text with real-world activity: GitHub contribution, LinkedIn engagement, skill development velocity, certs, and a stability proxy. | [momentum.py](file:///c:/h2s/core/momentum.py) (evaluates 5 behavioral dimensions) |
+| **Trustworthy Shortlists** | Offers transparent explainability (natural-language fit reasons), side-by-side comparison, weight adjustments, presets, and clean shortlist exports. | [explanation.py](file:///c:/h2s/core/explanation.py), [comparison.py](file:///c:/h2s/ui/comparison.py), and [shortlist.py](file:///c:/h2s/ui/shortlist.py) |
+| **Hybrid & Custom Architecture** | Rejects a prescribed black-box structure. Built a high-performance hybrid ranking pipeline combining local embeddings with cloud-LLM summaries. | [ranking.py](file:///c:/h2s/core/ranking.py) (main orchestrator pipeline) |
+
+---
+
 ## Current Features
 
 1. **Semantic + Momentum Ranking**
