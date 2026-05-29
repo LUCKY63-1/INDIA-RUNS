@@ -1,6 +1,23 @@
-# AI Recruiter POC
+# AI Recruiter POC 🚀
 
-AI Recruiter POC is a recruiting demo that can run as either a Streamlit app or a customtkinter desktop app. It ranks and shortlists candidates using a blend of semantic matching, momentum signals, and explainable outputs.
+> **Hackathon Submission**: Rethinking talent acquisition by transitioning from rigid keyword-matching to semantic understanding and behavioral momentum.
+
+---
+
+### 💡 The Problem
+Recruiters review hundreds of profiles daily and still frequently miss top talent. This isn't due to a lack of skilled candidates, but because traditional Applicant Tracking Systems (ATS) rely on **rigid keyword matching**:
+*   **Keyword Blindness**: If a candidate describes their skills using synonyms or different phrasing (e.g., *"web app engineering with Flask"* instead of *"Python developer"*), standard filters miss them.
+*   **Static Resumes**: Resumes represent a frozen snapshot in time, offering zero insight into a candidate's current learning velocity, activity, or community contribution.
+*   **The Black Box**: Traditional scoring systems output a raw number (e.g., *78%*) without explaining *why*, forcing recruiters to spend hours manually opening and scanning resumes.
+
+### 🌟 The Solution
+**AI Recruiter POC** is a next-generation hiring assistant that ranks and shortlists candidates the way an expert recruiter would. It evaluates candidates across three core pillars:
+
+1.  **Semantic Job-Fit Matching**: Uses dense embeddings (`all-MiniLM-L6-v2`) to capture the underlying meaning of job requirements and candidate profiles—matching context and intent rather than exact letters.
+2.  **Behavioral Momentum**: Aggregates real-time activity signals (GitHub commits, LinkedIn posts, certification velocity, new skills acquired, stability trends) to measure current drive and professional growth.
+3.  **Instant Explainability**: Leverages LLMs (`llama-3.3-70b-versatile` via Groq) to write natural-language fit justifications for every candidate, transforming raw numbers into clear, actionable recruiter insights.
+
+---
 
 ## Current Features
 
