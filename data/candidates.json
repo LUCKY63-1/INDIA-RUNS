@@ -1,0 +1,46 @@
+[
+    {
+        "id": "c1",
+        "name": "Alice Chen",
+        "role": "Senior Software Engineer",
+        "resume_text": "Senior Software Engineer with 8 years of experience in Python, React, and AWS.",
+        "github_commits_last_90d": 120,
+        "job_changes_last_2y": 0,
+        "certifications_last_year": 2,
+        "linkedin_posts_last_30d": 5,
+        "skills_acquired_last_180d": 3
+    },
+    {
+        "id": "c2",
+        "name": "Bob Smith",
+        "role": "Backend Developer",
+        "resume_text": "Backend Developer specialized in Java, Spring Boot, and PostgreSQL.",
+        "github_commits_last_90d": 10,
+        "job_changes_last_2y": 1,
+        "certifications_last_year": 0,
+        "linkedin_posts_last_30d": 1,
+        "skills_acquired_last_180d": 0
+    },
+    {
+        "id": "c3",
+        "name": "Charlie Davis",
+        "role": "Full Stack Engineer",
+        "resume_text": "Full Stack Engineer focused on modern JavaScript frameworks. Recently learning Next.js.",
+        "github_commits_last_90d": 250,
+        "job_changes_last_2y": 2,
+        "certifications_last_year": 5,
+        "linkedin_posts_last_30d": 18,
+        "skills_acquired_last_180d": 6
+    },
+    {
+        "id": "manual_4",
+        "name": "Lucky Narayani",
+        "role": "Data Science Engineer",
+        "resume_text": "Senior Data Science Engineer with 6 years of LLM Practitioner",
+        "github_commits_last_90d": 75,
+        "job_changes_last_2y": 0,
+        "certifications_last_year": 3,
+        "linkedin_posts_last_30d": 4,
+        "skills_acquired_last_180d": 3
+    }
+]

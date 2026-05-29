@@ -1,0 +1,27 @@
+[
+    {
+        "id": "j1",
+        "title": "Senior Full Stack Developer",
+        "description": "We are looking for a Senior Full Stack Developer proficient in React and Node.js. Experience with AWS and Microservices is a plus."
+    },
+    {
+        "id": "j2",
+        "title": "Backend Engineer (Java)",
+        "description": "Looking for a backend expert with deep knowledge of Java, Spring Boot, and database optimization."
+    },
+    {
+        "id": "m1",
+        "title": "SEO Specialist",
+        "description": "Looking for an SEO Specialist with strong Google Analytics, search optimization, and organic growth experience."
+    },
+    {
+        "id": "m2",
+        "title": "Social Media Manager",
+        "description": "Seeking a Social Media Manager experienced in campaign planning, brand engagement, and audience growth across major platforms."
+    },
+    {
+        "id": "m3",
+        "title": "Content Marketer",
+        "description": "Need a Content Marketer focused on B2B SaaS storytelling, copywriting, and content strategy to drive leads and engagement."
+    }
+]

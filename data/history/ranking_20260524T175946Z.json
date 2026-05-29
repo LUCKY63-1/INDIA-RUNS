@@ -1,0 +1,54 @@
+{
+  "timestamp": "20260524T175946Z",
+  "job_title": "Senior Full Stack Developer",
+  "weights": {
+    "semantic": 0.3,
+    "momentum": 0.7
+  },
+  "momentum_config": {
+    "github": 0.4,
+    "linkedin": 0.3,
+    "certs": 0.1,
+    "growth": 0.6,
+    "stability": 0.2
+  },
+  "candidate_count": 4,
+  "results": [
+    {
+      "id": "c3",
+      "name": "Charlie Davis",
+      "role": "Full Stack Engineer",
+      "resume_text": "Full Stack Engineer focused on modern JavaScript frameworks. Recently learning Next.js.",
+      "final_score": 0.86,
+      "semantic_score": 0.534,
+      "momentum_score": 1.0
+    },
+    {
+      "id": "c1",
+      "name": "Alice Chen",
+      "role": "Senior Software Engineer",
+      "resume_text": "Senior Software Engineer with 8 years of experience in Python, React, and AWS.",
+      "final_score": 0.797,
+      "semantic_score": 0.72,
+      "momentum_score": 0.83
+    },
+    {
+      "id": "manual_4",
+      "name": "Lucky Narayani",
+      "role": "Data Science Engineer",
+      "resume_text": "Senior Data Science Engineer with 6 years of LLM Practitioner",
+      "final_score": 0.643,
+      "semantic_score": 0.415,
+      "momentum_score": 0.74
+    },
+    {
+      "id": "c2",
+      "name": "Bob Smith",
+      "role": "Backend Developer",
+      "resume_text": "Backend Developer specialized in Java, Spring Boot, and PostgreSQL.",
+      "final_score": 0.303,
+      "semantic_score": 0.403,
+      "momentum_score": 0.26
+    }
+  ]
+}

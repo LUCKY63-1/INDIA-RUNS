@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+sentence-transformers
+scikit-learn
+groq
+python-dotenv
+pdfplumber
+python-docx
+pytest
+plotly
+fastapi
+uvicorn[standard]
+python-multipart

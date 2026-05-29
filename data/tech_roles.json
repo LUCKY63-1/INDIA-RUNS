@@ -1,0 +1,35 @@
+[
+    {
+        "id": "t1",
+        "name": "Elena Rodriguez",
+        "role": "Cloud Architect",
+        "resume_text": "Cloud Architect with 10 years experience in AWS, Azure, and Terraform.",
+        "github_commits_last_90d": 45,
+        "job_changes_last_2y": 0,
+        "certifications_last_year": 3,
+        "linkedin_posts_last_30d": 2,
+        "skills_acquired_last_180d": 2
+    },
+    {
+        "id": "t2",
+        "name": "Kevin Zhang",
+        "role": "Data Scientist",
+        "resume_text": "Data Scientist specialized in Machine Learning and NLP. Proficient in Python, PyTorch, and LLMs.",
+        "github_commits_last_90d": 88,
+        "job_changes_last_2y": 1,
+        "certifications_last_year": 1,
+        "linkedin_posts_last_30d": 12,
+        "skills_acquired_last_180d": 5
+    },
+    {
+        "id": "t3",
+        "name": "Sarah Jenkins",
+        "role": "DevOps Engineer",
+        "resume_text": "DevOps specialist with a focus on Kubernetes and CI/CD pipelines.",
+        "github_commits_last_90d": 150,
+        "job_changes_last_2y": 2,
+        "certifications_last_year": 4,
+        "linkedin_posts_last_30d": 5,
+        "skills_acquired_last_180d": 8
+    }
+]

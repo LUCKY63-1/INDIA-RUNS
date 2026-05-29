@@ -1,0 +1,54 @@
+{
+  "timestamp": "20260524T183415Z",
+  "job_title": "Backend Engineer (Java)",
+  "weights": {
+    "semantic": 0.6,
+    "momentum": 0.4
+  },
+  "momentum_config": {
+    "github": 0.2,
+    "linkedin": 0.2,
+    "certs": 0.2,
+    "growth": 0.2,
+    "stability": 0.2
+  },
+  "candidate_count": 4,
+  "results": [
+    {
+      "id": "c3",
+      "name": "Charlie Davis",
+      "role": "Full Stack Engineer",
+      "resume_text": "Full Stack Engineer focused on modern JavaScript frameworks. Recently learning Next.js.",
+      "final_score": 0.627,
+      "semantic_score": 0.386,
+      "momentum_score": 0.99
+    },
+    {
+      "id": "c2",
+      "name": "Bob Smith",
+      "role": "Backend Developer",
+      "resume_text": "Backend Developer specialized in Java, Spring Boot, and PostgreSQL.",
+      "final_score": 0.531,
+      "semantic_score": 0.731,
+      "momentum_score": 0.23
+    },
+    {
+      "id": "c1",
+      "name": "Alice Chen",
+      "role": "Senior Software Engineer",
+      "resume_text": "Senior Software Engineer with 8 years of experience in Python, React, and AWS.",
+      "final_score": 0.447,
+      "semantic_score": 0.406,
+      "momentum_score": 0.51
+    },
+    {
+      "id": "manual_4",
+      "name": "Lucky Narayani",
+      "role": "Data Science Engineer",
+      "resume_text": "Senior Data Science Engineer with 6 years of LLM Practitioner",
+      "final_score": 0.43,
+      "semantic_score": 0.389,
+      "momentum_score": 0.49
+    }
+  ]
+}

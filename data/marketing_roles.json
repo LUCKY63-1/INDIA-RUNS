@@ -1,0 +1,35 @@
+[
+    {
+        "id": "m1",
+        "name": "Jordan Smith",
+        "role": "SEO Specialist",
+        "resume_text": "SEO Expert with a proven track record of increasing organic traffic. Skilled in Google Analytics.",
+        "github_commits_last_90d": 0,
+        "job_changes_last_2y": 0,
+        "certifications_last_year": 2,
+        "linkedin_posts_last_30d": 25,
+        "skills_acquired_last_180d": 1
+    },
+    {
+        "id": "m2",
+        "name": "Aisha Patel",
+        "role": "Social Media Manager",
+        "resume_text": "Creative Social Media Manager with experience managing accounts for Fortune 500 companies.",
+        "github_commits_last_90d": 0,
+        "job_changes_last_2y": 1,
+        "certifications_last_year": 1,
+        "linkedin_posts_last_30d": 40,
+        "skills_acquired_last_180d": 4
+    },
+    {
+        "id": "m3",
+        "name": "Michael Brown",
+        "role": "Content Marketer",
+        "resume_text": "Content Marketing strategist focused on B2B SaaS. Exceptional writing skills.",
+        "github_commits_last_90d": 5,
+        "job_changes_last_2y": 3,
+        "certifications_last_year": 0,
+        "linkedin_posts_last_30d": 10,
+        "skills_acquired_last_180d": 0
+    }
+]
