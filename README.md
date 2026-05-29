@@ -19,7 +19,7 @@ Recruiters review hundreds of profiles daily and still frequently miss top talen
 
 ---
 
-### 🎯 Meeting Judge Expectations
+### 🎯 Expectations
 
 | Expectation / Criteria | Our Implementation & Logic | Technical Architecture & Files |
 | :--- | :--- | :--- |
