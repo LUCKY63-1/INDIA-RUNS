@@ -84,15 +84,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Desktop App
 
-Run the customtkinter version with:
-
-```bash
-python desktop_app.py
-```
-
-This version keeps the same ranking backend but feels more like a traditional desktop application with panels, tabs, tables, and async ranking updates.
 
 ## Optional Environment Variables
 
